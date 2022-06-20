@@ -63,7 +63,7 @@ params:
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
-    logo: fresh-square
+    # logo: fresh-square
     # sections:
     # - title: User
     #   icon: user
